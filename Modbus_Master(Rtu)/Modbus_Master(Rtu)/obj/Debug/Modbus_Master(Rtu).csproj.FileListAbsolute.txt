@@ -1,0 +1,5 @@
+E:\VS2015_Demo\Modbus_Master(Rtu)\Modbus_Master(Rtu)\bin\Debug\Modbus_Master(Rtu).dll
+E:\VS2015_Demo\Modbus_Master(Rtu)\Modbus_Master(Rtu)\bin\Debug\Modbus_Master(Rtu).pdb
+E:\VS2015_Demo\Modbus_Master(Rtu)\Modbus_Master(Rtu)\obj\Debug\Modbus_Master(Rtu).csprojResolveAssemblyReference.cache
+E:\VS2015_Demo\Modbus_Master(Rtu)\Modbus_Master(Rtu)\obj\Debug\Modbus_Master(Rtu).dll
+E:\VS2015_Demo\Modbus_Master(Rtu)\Modbus_Master(Rtu)\obj\Debug\Modbus_Master(Rtu).pdb

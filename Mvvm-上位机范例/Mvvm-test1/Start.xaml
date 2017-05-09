@@ -1,0 +1,61 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:ignore="http://www.galasoft.ch/ignore"
+        xmlns:System="clr-namespace:System;assembly=mscorlib" xmlns:Ports="clr-namespace:System.IO.Ports;assembly=System" xmlns:Themes="clr-namespace:Microsoft.Windows.Themes;assembly=PresentationFramework.Aero" x:Class="Mvvm_test1.Start"
+        mc:Ignorable="d ignore" Title="参数设定" Width="400" Height="300" Background="#FF2C3AC5" ResizeMode="CanMinimize" Icon="Image/SerialPort.png">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="31"/>
+            <RowDefinition Height="31"/>
+            <RowDefinition Height="31"/>
+            <RowDefinition Height="31"/>
+            <RowDefinition Height="31"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock x:Name="tb_PortName" Margin="5"  Text="通讯口" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="16" TextAlignment="Center"/>
+        <TextBlock x:Name="tb_BaudRate" Margin="5" Grid.Row="1"  FontSize="16" Text="波特率"/>
+        <TextBlock x:Name="tb_DataBits" Margin="5" Grid.Row="2"  FontSize="16" Text="校验位"/>
+        <TextBlock x:Name="tb_Parity" Margin="5" Grid.Row="3"  FontSize="16" Text="奇偶校验"/>
+        <TextBlock x:Name="tb_StopBits" Margin="5" Grid.Row="4"  FontSize="16" Text="停止位"/>
+        <ComboBox x:Name="comboBox" Grid.Column="1" Margin="7,4" SelectedIndex="0" SelectedItem="{Binding portName, Mode=OneWayToSource}">
+            <System:String>COM1</System:String>
+            <System:String>COM2</System:String>
+            <System:String>COM3</System:String>
+            <System:String>COM4</System:String>
+            <System:String>COM5</System:String>
+
+        </ComboBox>
+        <ComboBox x:Name="comboBox1" Grid.Column="1" Grid.Row="1" Margin="7,4" SelectedIndex="0" SelectedItem="{Binding baudRate, Mode=OneWayToSource}">
+            <System:UInt32>9600</System:UInt32>
+            <System:UInt32>19200</System:UInt32>
+            <System:UInt32>38400</System:UInt32>
+            <System:UInt32>115200</System:UInt32>
+        </ComboBox>
+        <ComboBox x:Name="comboBox2" Grid.Column="1" Grid.Row="2" Margin="7,4" SelectedIndex="0" SelectedItem="{Binding dataBits, Mode=OneWayToSource}">
+            <System:UInt16>8</System:UInt16>
+            <System:UInt16>7</System:UInt16>
+        </ComboBox>
+        <ComboBox x:Name="comboBox3" Grid.Column="1" Grid.Row="3" Margin="7,4" SelectedIndex="1" SelectedItem="{Binding parity, Mode=OneWayToSource}">
+            <Ports:Parity>None</Ports:Parity>
+            <Ports:Parity>Even</Ports:Parity>
+            <Ports:Parity>Odd</Ports:Parity>
+        </ComboBox>
+        <ComboBox x:Name="comboBox4" Grid.Column="1" Grid.Row="4" Margin="7,4" SelectedIndex="0" Background="White" SelectedItem="{Binding stopBits, Mode=OneWayToSource}">
+            <Ports:StopBits>1</Ports:StopBits>
+            <Ports:StopBits>2</Ports:StopBits>
+
+        </ComboBox>
+        <Button x:Name="button" Grid.Column="2" HorizontalAlignment="Right" Height="34" Margin="0,0,10,10" Grid.Row="5" Content="确认" VerticalAlignment="Bottom" Width="83" Background="#FF1D9E2E" BorderBrush="#FFCFA929" Command="{Binding btn_openPort}" Foreground="#FF080808" />
+
+    </Grid>
+
+
+</Window>

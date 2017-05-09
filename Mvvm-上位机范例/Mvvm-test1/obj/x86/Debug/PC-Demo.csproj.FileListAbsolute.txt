@@ -1,0 +1,2 @@
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\x86\Debug\Interop.Excel.dll
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\x86\Debug\PC-Demo.csproj.ResolveComReference.cache

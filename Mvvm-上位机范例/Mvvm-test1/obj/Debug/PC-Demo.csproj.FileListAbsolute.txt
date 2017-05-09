@@ -1,0 +1,57 @@
+E:\VS2015_Demo\Mvvm-test1\Mvvm-test1\bin\Debug\Mvvm-test1.exe.config
+E:\VS2015_Demo\Mvvm-test1\Mvvm-test1\obj\Debug\Mvvm-test1.exe
+E:\VS2015_Demo\Mvvm-test1\Mvvm-test1\obj\Debug\Mvvm-test1.pdb
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\Mvvm-test1.exe
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\Mvvm-test1.pdb
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\Mvvm-test1.exe
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\Mvvm-test1.pdb
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\Mvvm-test1.exe.CodeAnalysisLog.xml
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\Mvvm-test1.exe.lastcodeanalysissucceeded
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\GalaSoft.MvvmLight.dll
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\System.Windows.Interactivity.dll
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\GalaSoft.MvvmLight.xml
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\PC-Demo.csprojResolveAssemblyReference.cache
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\Main.g.cs
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\App.g.cs
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\Mvvm-test1_MarkupCompile.cache
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\Mvvm-test1_MarkupCompile.lref
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\Main.baml
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\Mvvm-test1.g.resources
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\User Page\FristPage.g.cs
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\User Page\FristPage.baml
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\User Page\SecondPage.g.cs
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\User Page\SecondPage.baml
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\Mvvm-test1.exe.manifest
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\Mvvm-test1.application
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\Mvvm-test1.exe.manifest
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\Mvvm-test1.application
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\Dictionary1.baml
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\User Page\ThreePage.g.cs
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\User Page\ThreePage.baml
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\Start.baml
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\Start.g.cs
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\App.baml
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\NumberTextBox\Uint16Window.g.cs
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\NumberTextBox\Uint16Window.baml
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\User Page\FourPage.g.cs
+E:\VS2015_Demo\Mvvm-上位机范例\Mvvm-test1\obj\Debug\User Page\FourPage.baml
