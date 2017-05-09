@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-E:\Project\Mvvm-上位机范例\Mvvm-test1\obj\Debug\
+E:\Project\Mvvm-上位机范例\Mvvm-test1\obj\Release\
 Mvvm_test1
 none
 false
-CODE_ANALYSIS;DEBUG;TRACE
+TRACE
 E:\Project\Mvvm-上位机范例\Mvvm-test1\App.xaml
 8876778867
 
 15-9151385
-74194951098
+72-500683403
 Dictionary1.xaml;Main.xaml;NumberTextBox\Uint16Window.xaml;Start.xaml;User Page\FourPage.xaml;User Page\FristPage.xaml;User Page\SecondPage.xaml;User Page\ThreePage.xaml;
 
 True
